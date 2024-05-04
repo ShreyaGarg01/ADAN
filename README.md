@@ -1,1 +1,1 @@
-# ADAN
+# ADAN optimizer
